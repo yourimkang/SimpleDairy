@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">SimpleDiary</string>
+    <string name="str_but">str_but</string>
     <String name="str_but">버튼</String>
 </resources>
